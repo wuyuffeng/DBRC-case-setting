@@ -18,8 +18,9 @@ import numpy as np
 dict_ = np.load('two_prosumer.npy',allow_pickle = True).item()
 ```
 # Parameters Description
-### 
->_**'A11'**_:  
+### Our data is structured in the form of a dictionary, where the meaning of different key is explained as follows:  
+
+>_**'A11'**_ :  
 >_**'A12'**_ :  
 >_**'A21'**_ :  
 >_**'A22'**_ :  
