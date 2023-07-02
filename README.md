@@ -20,18 +20,10 @@ dict_ = np.load('two_prosumer.npy',allow_pickle = True).item()
 # Parameters Description
 ### Our data is structured in the form of a dictionary, where the meaning of different key is explained as follows:  
 
->_**'A11'**_ :  
->_**'A12'**_ :  
->_**'A21'**_ :  
->_**'A22'**_ :  
->_**'b'**_ :  
->_**'B21'**_ :  
->_**'c'**_ :  
->_**'d1'**_ :  
->_**'d2'**_ :  
->_**''G**_ :  
->_**'m1'**_ :   
->_**'m21'**_ :  
->_**'m22'**_ :  
->_**'n1'**_ :  
->_**'n1'**_ :  
+>_**'A11'**_ : It refers to the _**E**_ in formula (2c);  
+>_**'B1'**_ : It refers to the _**D<sub>i</sub>**_ in formula (2c);  
+>_**'A22'**_ : It refers to the _**A<sub>i</sub>**_ in formula (2b);  
+>_**'B22'**_ : It refers to the _**B<sub>i</sub>**_ in formula (2b);  
+>_**'c'**_ : It refers to the _**Q<sub>i</sub>**_ in formula (2a);  
+>_**'d1'**_ : It refers to the _**d<sub>i</sub>**_ in formula (2a);   
+>_**'d2'**_ : It refers to the _**c<sub>i</sub>**_ in formula (2a);
