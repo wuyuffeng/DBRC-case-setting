@@ -29,7 +29,12 @@ dict_ = np.load('two_prosumer.npy',allow_pickle = True).item()
 >_**'ci'**_ : It refers to the _**c<sub>i</sub>**_ in formula (2a);
 
 # Addenda
-###   It should be noted that the proof of the CPDB is essentially the solution of the Multi-Parameter Quadratic Programming (MPQP). Due to the detailed proof of the CPDB, the elaboration of the MPQP was removed from the uploaded manuscript in order to meet the space requirements. However, due to the authors' negligence, this resulted in the removal of some important literature. For this reason, the authors provide the relevant important papers here. And the relevant content will be added to the manuscript when we restructure the manuscript in the future.
+###  There was a clerical error in Proof 6 of the original manuscript, which is corrected as follows：
+<div align="center">
+  <img src = "title.png"/>
+</div>  
+
+###  And it should be noted that the proof of the CPDB is essentially the solution of the Multi-Parameter Quadratic Programming (MPQP). Due to the detailed proof of the CPDB, the elaboration of the MPQP was removed from the uploaded manuscript in order to meet the space requirements. However, due to the authors' negligence, this resulted in the removal of some important literature. For this reason, the authors provide the relevant important papers here. And the relevant content will be added to the manuscript when we restructure the manuscript in the future.
 
 > [1] E. N. Pistikopoulos et al., Multi-Parametric Programming: Theory Algorithms and Applications, Weinheim, Germany:Wiley-VCH, 2007.
 
